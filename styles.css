@@ -1,3 +1,9 @@
 .top-actions {
   margin-top: 20px;
+  margin-bottom: -30px;
+}
+
+.sub-nav {
+  background-color: #f2f2f2;
+  padding: 0.5em 0;
 }
