@@ -21,11 +21,15 @@
   padding: 0.9375em;
 }
 
+.full-bleed {
+  margin: 0 -0.9375em;
+}
+
 .muted {
   color: #999;
 }
 
 .ruled {
-  border: 1px solid;
+  border: solid #ccc;
   border-width: 0 1px 0 1px;
 }
