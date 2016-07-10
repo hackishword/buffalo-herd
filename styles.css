@@ -20,7 +20,7 @@
 }
 
 .tint-box {
-  background: #fb0;
+  background: #fb7;
   padding: 0.9375em;
   margin-bottom: 0.9375rem;
 }
@@ -32,4 +32,9 @@
 .ruled {
   border: solid #ccc;
   border-width: 0 1px 0 1px;
+}
+
+.lead {
+  font-size: 18px;
+  font-weight: 300;
 }
