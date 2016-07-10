@@ -15,14 +15,14 @@
   padding: 0px 0.3em;
 }
 
+.full-bleed {
+  margin: 0 -0.9375em;
+}
 
 .tint-box {
   background: #eee;
   padding: 0.9375em;
-}
-
-.full-bleed {
-  margin: 0 -0.9375em;
+  margin-bottom: 0.9375rem;
 }
 
 .muted {
