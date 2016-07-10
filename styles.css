@@ -17,7 +17,8 @@
 
 
 .tint-box {
-
+  background: #eee;
+  padding: 0.9375em;
 }
 
 .muted {
